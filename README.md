@@ -16,7 +16,8 @@ Designed and executed effective retention campaigns, resulting in a 10% decrease
 - Developed interactive dashboards for real-time tracking of churn metrics, allowing stakeholders to monitor trends and outcomes.
 
 
-<h1>Project</h1>
+## Customer Churn Dashboard
 
+Here’s a snapshot of our Customer Churn dashboard:
 
-<p align="left"> <img src="C:\Users\Arbaz\OneDrive\Pictures\Screenshots" /> </p>
+![Customer Churn](Churn.png)
